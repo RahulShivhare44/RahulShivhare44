@@ -33,7 +33,7 @@ align="left"> <img src="https://komarev.com/ghpvc/?username=RahulShivhare44&labe
 <a href="https://www.instagram.com/rahulshivhare4444/">
   <img align="left" alt="BK's Instagram" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" />
 </a>
-<a href="https://github.com/RahulShivhare44">
+<a href="https://rahul-shivhare-portfolio.netlify.app/">
    <img align="left" alt="BK's Portfolio" width="26px" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-link-thin.png" />
   </a>
   
